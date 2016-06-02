@@ -6,7 +6,7 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "devserver": "webpack-dev-server --progress --colors"
+    "start": "webpack-dev-server --progress --colors"
   },
   "repository": {
     "type": "git",
