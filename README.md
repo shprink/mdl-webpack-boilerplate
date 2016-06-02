@@ -12,5 +12,5 @@ npm install
 ## Run web server
 
 ```
-npm run devserver
+npm start
 ```
